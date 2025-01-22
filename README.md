@@ -11,7 +11,7 @@
 - **`-r`**: Reverse the sort order.
 
 ## Download and Run
-Download the latest release from the [Releases page](https://github.com/yblacky/LsInWindows/packages).
+-> Download the latest release from the [Releases page](https://github.com/yblacky/LsInWindows/packages).
 
 ## Add to PATH
 1. Open **System Properties** > **Environment Variables**.
